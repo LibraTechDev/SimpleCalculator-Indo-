@@ -1,1 +1,1 @@
-# SimpleCalculator-Indo-
+Simple Calculator Using c++, bahasa version
